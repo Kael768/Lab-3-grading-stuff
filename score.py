@@ -1,4 +1,6 @@
-result = 0
+#result = 0
+
+
 count = float(input("count: "))
 number = float(input("Exam Score: "))
 def calculate_average(number, count):
@@ -16,4 +18,5 @@ def calculate_average(number, count):
 calculate_average(number, count)
 
 #use while true until user type -1 then break
+
 # inside the while loop, ask user to input score
