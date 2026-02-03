@@ -8,7 +8,12 @@ public class grade01{
         //Exam 2 = 30%
         //Homework, assignments(not separate) = 50%% *
         //labs total are 10(needed user input)
-        //exam 1 & 2 is 100 (goto the result function where it says )
+        //exam 1 & 2 is 100 (goto the result function where it says examScore1 and 2)
+        //the max score was 100 and the final can't get higher than 100
+        //no late attendance gets a 5 point credit reward.
+        //more than 50 total late attendance, the 50% maybe reduced to 40% of the total grade is reduced more by 10% after the homework equation
+        //conclusion is getting 2 or even one can delete 2-6 points. even if you got a 100
+        //rough rule
     }
 
 
@@ -74,4 +79,5 @@ public class grade01{
     input.close();
     }
 }
+
 
